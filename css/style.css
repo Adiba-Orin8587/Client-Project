@@ -31,7 +31,7 @@ body {
 }
 
 nav {
-    box-shadow: rgba(98, 99, 99, 0.2) 0px -3px 11px 0px;
+    box-shadow: rgba(98, 99, 99, 0.2) 0px 10px 5px -11px;
 }
 
 .width {
