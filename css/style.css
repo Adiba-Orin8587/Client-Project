@@ -31,7 +31,7 @@ body {
 }
 
 nav {
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    box-shadow: rgba(98, 99, 99, 0.2) 0px -3px 11px 0px;
 }
 
 .width {
@@ -370,6 +370,13 @@ li {
     width: 83%;
     margin-left: -4.5%;
     margin-top: -11px;
+}
+
+.underline-3 {
+    background-color: #f6981d;
+    border: 2.5px solid rgb(252 152 50);
+    width: 98.2%;
+    padding-right: 1.5%;
 }
 
 .underline-1 {
